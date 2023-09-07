@@ -11,7 +11,7 @@ public class Princiapal {
 //invocando metodo teste.
     facul.Teste();
     
-      OUTER:
+      
 // estrutura de repetição.
      do{
           System.out.println("  ");
